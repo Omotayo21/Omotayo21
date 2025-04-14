@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-👯 I’m looking to collaborate on React, Nodejs NextJs and TypeScript Projects<br>🌱 I’m currently learning Angular, react-native and NextJs<br>💬 Ask me about HTML, CSS, JavaScript, TailwindCSS, SASS, React and TypeScript<br>⚡ Fun fact is that I'm him.
+👯 I’m looking to collaborate on React, Nodejs, NextJs and TypeScript Projects<br>🌱 I’m currently learning Angular, react-native and NextJs<br>💬 Ask me about HTML, CSS, JavaScript, TailwindCSS, SASS, React and TypeScript<br>⚡ Fun fact is that I'm him.
 
 
 ## 🌐 Socials:
